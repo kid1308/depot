@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: ThangTD
+  address: HCMC
+  email: thangtd@ttsoft.com.vn
+  pay_type: Check
+
+two:
+  name: MyString
+  address: MyText
+  email: MyString@email.com
+  pay_type: MyString
